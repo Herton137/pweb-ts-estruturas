@@ -1,6 +1,6 @@
 # Atividade: Estruturas em TypeScript
 
-Aluno(a): Herton Nascimento Cavalcante 
+Aluno(a): Herton Nascimento Cavalcante' 
 Disciplina: Programação Web
 
 ## Exercícios
@@ -12,4 +12,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://SEU-USUARIO.github.io/pweb-ts-estruturas/
+https://Herton137.github.io/pweb-ts-estruturas/
